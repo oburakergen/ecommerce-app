@@ -1,0 +1,5 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import "./template/style.css";
+@import "./template/responsive.css";
+@import "./font-awesome.min.css";
+@import "./template/layerslider.css";

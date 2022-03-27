@@ -1,0 +1,67 @@
+/*!
+   --------------------------------
+   Infinite Scroll
+   --------------------------------
+   + https://github.com/paulirish/infinite-scroll
+   + version 2.1.0
+   + Copyright 2011/12 Paul Irish & Luke Shumard
+   + Licensed under the MIT license
+   + Documentation: http://infinite-scroll.com/
+*/
+
+/*!
+ * Sizzle CSS Selector Engine v2.2.1
+ * http://sizzlejs.com/
+ *
+ * Copyright jQuery Foundation and other contributors
+ * Released under the MIT license
+ * http://jquery.org/license
+ *
+ * Date: 2015-10-17
+ */
+
+/*!
+ * VERSION: 1.19.0
+ * DATE: 2016-07-14
+ * UPDATES AND DOCS AT: http://greensock.com
+ *
+ * Includes all of the following: TweenLite, TweenMax, TimelineLite, TimelineMax, EasePack, CSSPlugin, RoundPropsPlugin, BezierPlugin, AttrPlugin, DirectionalRotationPlugin
+ *
+ * @license Copyright (c) 2008-2016, GreenSock. All rights reserved.
+ * This work is subject to the terms at http://greensock.com/standard-license or for
+ * Club GreenSock members, the software agreement that was issued with your membership.
+ *
+ * @author: Jack Doyle, jack@greensock.com
+ **/
+
+/*!
+ * jQuery JavaScript Library v1.12.4
+ * http://jquery.com/
+ *
+ * Includes Sizzle.js
+ * http://sizzlejs.com/
+ *
+ * Copyright jQuery Foundation and other contributors
+ * Released under the MIT license
+ * http://jquery.org/license
+ *
+ * Date: 2016-05-20T17:17Z
+ */
+
+/**
+ * @license
+ * Lodash <https://lodash.com/>
+ * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+ * Released under MIT license <https://lodash.com/license>
+ * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
+ * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+ */
+
+/** SplitType
+  * A javascript utility that splits text into indivual lines words and characters
+  * that can be animated and styled independently.
+  * Date: May 2015
+  * @author: Luke Peavey
+  * @version: 0.8
+  * @license MIT
+  */
